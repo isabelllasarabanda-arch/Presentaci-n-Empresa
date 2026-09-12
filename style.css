@@ -111,10 +111,6 @@ footer{
     margin-top:40px;
 }
 
-body{
-    margin:0;
-    font-family:Arial, sans-serif;
-}
 
 .tabs{
     display:flex;
@@ -147,7 +143,7 @@ body{
     height:90vh;
     border:none;
     border-radius:10px;
-    box-shadow:0 0 15px#A9A135  ;
+    box-shadow:0 0 15px #A9A135;
     display:block;
     margin:auto; 
 }
